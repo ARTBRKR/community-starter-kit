@@ -1,6 +1,6 @@
 Community Starter Kit
 =====================
-This is (will become) a collection or resources for people interested in
+This is (will become) a collection of resources for people interested in
 organizing Python community events.
 
 
